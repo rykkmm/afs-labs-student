@@ -1,6 +1,3 @@
-<<<<<<< HEAD
--- comment comment
->>>>>>> 029cd9ca6f3f35f91d3a51a4333ad11cbe966b39
 -- PostgreSQL database dump
 --
 
